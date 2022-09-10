@@ -6,12 +6,12 @@ function oddOrEven(int){
      }
 
      if(basamakT%2==0){
-         alert("this number is even");
+         console.log(basamakT+ "This number is even");
      }else{
-         alert("this number is odd");
+        console.log(basamakT+ "This number is odd");
      }
      
-     console.log(basamakT);
+     
 
 }
 
